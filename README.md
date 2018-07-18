@@ -1,0 +1,2 @@
+# manajemen
+Jurnal Manajemen Profitability
